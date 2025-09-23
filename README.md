@@ -31,7 +31,7 @@ I enjoy exploring how programming and data can work together to solve problems, 
 
 ## 🤝 Let’s Connect
 - 📫 Email: vedangkulk26@gmail.com
-- 💼 LinkedIn: [Vedang Kulkarni](www.linkedin.com/in/vedang-kulkarni-a09543243)  
+- 💼 LinkedIn: [Vedang Kulkarni](https://www.linkedin.com/in/vedang-kulkarni-a09543243)  
 - 🔗 GitHub: https://github.com/Vedang-K
 
 ---
