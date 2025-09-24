@@ -17,7 +17,7 @@ I enjoy exploring how programming and data can work together to solve problems, 
 ## 🛠️ Tech Stack
 
 <p float="left" align="center">
-  <img src="https://skillicons.dev/icons?i=python,c,cpp,html,css,mysql" alt="Technologies" height="40"/>
+  <img src="https://skillicons.dev/icons?i=git, python,c,cpp,html,css,mysql" alt="Technologies" height="40"/>
 </p>
 
 
