@@ -1,39 +1,62 @@
-# Hey, I’m Vedang K 👋  
-(*aka “irukakae”*)
-
-I’m a 2nd year B.Tech student in **Artificial Intelligence & Data Science** at **K. J. Somaiya College of Engineering**.  
-I enjoy exploring how programming and data can work together to solve problems, simplify tasks, and create meaningful insights.
+<h1 align="center">Hi 👋, I'm Vedang K</h1>
+<h3 align="center">From datasets to decisions — fueled by Python & caffeine ☕</h3>
 
 ---
 
-## ✨ What I’m Up To
-- Working on data science projects like data cleaning, analysis, web scraping,  and visualization to extract insights.
-- Strengthening fundamentals in **Python, C, and C++** for DSA and systems programming.  
-- Working with **SQL / MySQL** for data storage and analysis.  
-- Learning data science and machine learning.
+### 👨‍💻 About Me  
+- 🎓 B.Tech AI & Data Science student  
+- 💡 Exploring **Machine Learning, Data Analysis**, and **Automation**  
+- 🚀 Currently working on building intelligent systems that actually *learn*  
+- 📊 Turning raw data into real insights  
 
 ---
 
-## 🛠️ Tech Stack
+### ⚙️ Tech Stack  
+**Languages:**  
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40"/> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40"/> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40"/>
 
-<p float="left" align="center">
-  <img src="https://skillicons.dev/icons?i=python,c,cpp,html,css,mysql" alt="Technologies" height="40"/>
+**Libraries & Tools:**  
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="pandas" width="40"/> 
+<img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40"/> 
+<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40"/> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40"/> 
+
+---
+
+### 📂 Projects & Experiments  
+- 🧠 **[Face Recognition Attendance System](https://github.com/vedang-k/Face-Recognition-Attendance-System)** — AI project using OpenCV for automating attendance.  
+- 🌦️ **[Weather App](https://github.com/vedang-k/Weather-App)** — Python app fetching & displaying real-time weather data.  
+
+> *(More experiments coming soon — caffeine supply pending ☕)*  
+
+---
+
+### ⚡ Fun Fact  
+> I commit more to GitHub than to my sleep schedule.  
+
+---
+
+### 📈 GitHub Stats  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=vedang-k&show_icons=true&theme=tokyonight" alt="vedang-k" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=vedang-k&layout=compact&theme=tokyonight" alt="top langs" height="150"/>
 </p>
 
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vedang-k&theme=tokyonight" alt="streak" height="150"/>
+</p>
 
 ---
 
-## 📂 Projects & Experiments
-- **Face Recognition Attendance System** — AI project using OpenCV for automating attendance.  
-- **Weather-App** — Python app fetching & displaying real-time weather data.  
+### 🤝 Connect With Me  
+<p align="left">
+<a href="https://www.linkedin.com/in/vedang-kulkarni-a09543243/" target="blank">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" />
+</a>
+</p>
 
 ---
 
-## 🤝 Let’s Connect
-- 📫 Email: vedangkulk26@gmail.com
-- 💼 LinkedIn: [Vedang Kulkarni](https://www.linkedin.com/in/vedang-kulkarni-a09543243)  
-- 🔗 GitHub: https://github.com/Vedang-K
-
----
-
-> ⚡ Fun Fact: “AI is not just about making machines intelligent — it’s about making humans more capable through data-driven insights.”
+![](https://komarev.com/ghpvc/?username=vedang-k&style=flat-square&color=blue)
