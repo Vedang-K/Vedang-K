@@ -42,18 +42,6 @@
 
 ---
 
-### 📈 GitHub Stats  
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vedang-k&show_icons=true&theme=tokyonight" alt="vedang-k" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=vedang-k&layout=compact&theme=tokyonight" alt="top langs" height="150"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vedang-k&theme=tokyonight" alt="streak" height="150"/>
-</p>
-
----
-
 ## 🤝 Connect With Me
 
 <p align="left">
